@@ -1,0 +1,7 @@
+# requirements.txt
+
+Flask
+tensorflow
+Pillow
+numpy
+opencv-python-headless
