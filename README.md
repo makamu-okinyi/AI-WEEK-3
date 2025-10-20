@@ -122,4 +122,4 @@ This project successfully demonstrates a full-stack approach to AI development, 
 ### Project Contributors
 *MAKAMU OKINYI BETSY* - makamubetsy@gmail.com
 
-*BRIDIE MAUGHAM DIBORA* - [maughamdiborapr@gmail.com]
+*BRIDIE MAUGHAM DIBORA* - maughamdiborapr@gmail.com
